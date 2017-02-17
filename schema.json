@@ -1,0 +1,51 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "WebSite",
+  "name": "Odyssey",
+  "alternateName": "Odyssey IIIT D",
+  "url": "http://odyssey.iiitd.edu.in/",
+  "keywords": "Odyssey, Odyssey IIIT D, Odyssey IIITD, Odyssey IIIT, Cultural fest of IIIT D, Cultral fest in Delhi",
+  "@context": "http://www.schema.org",
+  "@type": "Festival",
+  "name": "Odyssey",
+  "@id": "http://odyssey.iiitd.edu.in/",
+  "url": "http://odyssey.iiitd.edu.in/",
+  "sameAs": [
+    "https://www.facebook.com/odyssey.iiitd/",
+    "https://plus.google.com/104900525075222914073",
+    "https://twitter.com/IIITDOdyssey",
+    "https://www.instagram.com/iiitdodyssey/",
+    "https://www.youtube.com/user/odysseyiiitd"
+  ],
+  "description": "The word Odyssey comes from the Greek Odysseia, name of the Homeric epic poem of ancient Greece relating to the 10 year adventurous journey of Odysseus. True to it’s meaning, the theme for Odyssey’17 is ‘Around the world in two days’ - a one of it’s kind journey across the seven seas, seven continents and seven heavens in two days - with just one destination.\n\nTalent remains latent unless the individual possessing it takes off on a journey to give wings to their dreams. Our vision is to have Odyssey’17 serve as a platform for those aspiring to turn their visions into tangible reality.",
+  "location": {
+    "@type": "Place",
+    "name": "IIIT D",
+    "alternateName": "IIIT Delhi",
+    "sameAs": "https://www.iiitd.ac.in/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": " Indraprastha Institute of Information Technology, Okhla Industrial Estate, Phase III, (Near Govindpuri Metro Station) New Delhi, India",
+      "addressLocality": "New Delhi",
+      "addressRegion": "Delhi",
+      "postalCode": "110020",
+      "addressCountry": "India"
+    }
+  },
+  "typicalAgeRange": "15-30",
+  "offers": {
+    "@type": "Offer",
+    "description": "Event Ticket",
+    "url": "http://odyssey.iiitd.edu.in/",
+    "price": "0"
+  }
+}
+
+
+
+
+
+
+
+
+

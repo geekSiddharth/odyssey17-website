@@ -1,0 +1,28 @@
+GOT
+ - name
+ - email
+ - contact
+ - motivation
+
+ACAPELLA
+ - nec
+ - previous
+ - fjdsklfjslk
+ - jkldsfjlkfdsjlk
+
+ Ways
+  - x 31 tables
+  - name, email, phone, event-id, extra_data -> json goodnes
+  - 1 model
+  - name, email, phone, event-id, extra_data
+
+Form Generation
+ - 31 events - 3 common fields
+ - extra fields per event
+ 
+
+
+Additional Features
+ - login
+ - autofill
+ - team code
