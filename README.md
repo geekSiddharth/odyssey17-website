@@ -1,11 +1,14 @@
 # odyssey17-website
-This is the design that was made by us in the second iteration, which was brutally rejected.
+This is the design that was made by us for odyssey, which was brutally rejected.
 
+Homepage: https://geeksiddharth.github.io/ <br>
+Events page: https://geeksiddharth.github.io/odyssey17-website/events.html <br>
+Literature Category Page: https://geeksiddharth.github.io/odyssey17-website/literature/ <br>
+Lifestyle Category Page: https://geeksiddharth.github.io/odyssey17-website/lifestyle/ <br>
+Music Category Page: https://geeksiddharth.github.io/odyssey17-website/music/ <br>
+Registration Page: https://geeksiddharth.github.io/odyssey17-website/register/ <br>
 
-Events page: https://geeksiddharth.github.io/odyssey17-website/events.html
-Literature Category Page: https://geeksiddharth.github.io/odyssey17-website/literature/
-Lifestyle Category Page: https://geeksiddharth.github.io/odyssey17-website/lifestyle/
-Music Category Page: https://geeksiddharth.github.io/odyssey17-website/music/
-Registration Page: https://geeksiddharth.github.io/odyssey17-website/register/
+Note: This was the first iteration. <br>
+The final design is live at http://odyssey.iiitd.edu.in/ 
 
 
